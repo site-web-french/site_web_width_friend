@@ -1,1 +1,2 @@
-console.log ('Hi please don't hack 😺')
+console.log('Hi please don\'t hack 😺');
+
