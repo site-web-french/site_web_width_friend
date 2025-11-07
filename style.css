@@ -1,6 +1,5 @@
 .titre{
   margin-left:40%;
-  margin-right:40%;
   margin-top:40px;
   font-size:42px;
   max-width: 30ch;
@@ -8,4 +7,5 @@
   transform: skewY(-10deg);
   font-family:monospace;
 }
+
 
