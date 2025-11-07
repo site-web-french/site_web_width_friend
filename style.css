@@ -1,14 +1,1 @@
-h1 {
-  font-size: 3rem;
-  text-align: center;
-  animation: fadeInMove 2s ease-in-out forwards;
-  font-family: Arial, sans-serif;
-}
-h1 {
-  font-size: 3rem;
-  text-align: center;
-}
 
-h1.animate {
-  animation: fadeInMove 2s ease-in-out forwards;
-}
