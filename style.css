@@ -3,7 +3,7 @@ body{
 }
 
 .center{
-  place-items:center;
+  align-items:center;
 }
 
 h1{
@@ -28,3 +28,4 @@ h1{
   padding-bottom:80px;
   background-color:blue;
 }
+
